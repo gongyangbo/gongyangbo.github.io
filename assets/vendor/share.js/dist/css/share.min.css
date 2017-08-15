@@ -10,7 +10,7 @@
 .icon-diandian:before{content:"\e608"}
 .icon-facebook:before{content:"\e609"}
 .icon-google:before{content:"\e60b"}
-/*.icon-twitter:before{content:"\e60c"}*/
+.icon-twitter:before{content:"\e60c"}
 .share-component a{position:relative;text-decoration:none;margin:3px;display:inline-block}
 .share-component .iconfont{position:relative;display:inline-block;width:32px;height:32px;font-size:20px;border-radius:50%;line-height:32px;border:1px solid #eee;text-align:center;transition:background 0.6s ease-out 0s}
 .share-component .iconfont:hover{background:#f4f4f4;color:#fff}
@@ -30,8 +30,8 @@
 .share-component .icon-facebook:hover{background:#44619D}
 .share-component .icon-google{color:#db4437;border-color:#db4437}
 .share-component .icon-google:hover{background:#db4437}
-/*.share-component .icon-twitter{color:#55acee;border-color:#55acee}*/
-/*.share-component .icon-twitter:hover{background:#55acee}*/
+.share-component .icon-twitter{color:#55acee;border-color:#55acee}
+.share-component .icon-twitter:hover{background:#55acee}
 .share-component .icon-diandian{color:#307DCA;border-color:#307DCA}
 .share-component .icon-diandian:hover{background:#307DCA}
 .share-component .icon-wechat{line-height:28px;position:relative;color:#7bc549;border-color:#7bc549}

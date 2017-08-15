@@ -23,10 +23,10 @@
  .icon-qzone{line-height:29px;color:#ffe21f;border-color:#ffe21f}.share-component 
  .icon-qzone:hover{background:#ffe21f}.share-component 
  .icon-douban{line-height:28px;color:#33b045;border-color:#33b045}.share-component 
- .icon-douban:hover{background:#33b045}.share-component 
- .icon-linkedin{line-height:28px;color:#0077B5;border-color:#0077B5}.share-component 
- .icon-linkedin:hover{background:#0077B5}.share-component 
- .icon-facebook{color:#44619D;border-color:#44619D}.share-component 
+ .icon-douban:hover{background:#33b045}
+ /*.share-component .icon-linkedin{line-height:28px;color:#0077B5;border-color:#0077B5}*/
+ /*.share-component .icon-linkedin:hover{background:#0077B5}*/
+ .share-component .icon-facebook{color:#44619D;border-color:#44619D}.share-component 
  .icon-facebook:hover{background:#44619D}
  /*.share-component .icon-google{color:#db4437;border-color:#db4437}*/
  /*.share-component .icon-google:hover{background:#db4437}*/
