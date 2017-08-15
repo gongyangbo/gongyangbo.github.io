@@ -8,10 +8,9 @@ menu: 关于
 permalink: /about/
 ---
 
+在年轻人的颈项上，没有什么东西能比事业心这颗灿烂的宝珠更迷人的了 ——哈菲兹
 
-坚信熟能生巧，努力改变人生。
-
-## Skill Keywords
+### 希望他她它的世界里有逗的你和我
 
 {% for category in site.data.skills %}
 ### {{ category.name }}
