@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ruby on rails 环境&libv8安装 -爬坑记
-categories: Ruby on Rails
+categories: Rails
 description: 环境安装爬坑记。
 keywords: 爬坑，ruby on rails
 ---
