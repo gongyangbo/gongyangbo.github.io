@@ -1,3 +1,11 @@
+---
+layout: post
+title: 使用Rails需要掌握的Ruby知识（一）
+categories: Ruby
+description: 使用Rails需要掌握的Ruby知识
+keywords: ruby,knowledge
+---
+
 ### Hash（散列）和符号
 #### Hash  
 Hash本质上就是数组，不过它的索引不局限于只使用数字。Hash的索引（或者叫“键”）几乎可以使用任何对象。  
