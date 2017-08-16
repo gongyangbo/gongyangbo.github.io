@@ -41,7 +41,7 @@ _Symbol是Ruby中特有的数据类型，在其他语言中很少见。Symbol和
 
 ##### 嵌套Hash  
 散列中元素的值可以是任何对象，甚至是另一个散列(图-1)。
-![Configure your Github Page](/images/blog/Ruby/001.png)
+![Configure your Github Page](/images/blog/ruby/001.png)
 
 Rails中会大量使用这种Hash中有Hash的形式。
 
