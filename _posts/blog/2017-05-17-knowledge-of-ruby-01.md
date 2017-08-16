@@ -7,7 +7,6 @@ keywords: ruby,knowledge
 ---
 
 ### Hash（散列）和符号
-
 #### Hash  
 Hash本质上就是数组，不过它的索引不局限于只使用数字。Hash的索引（或者叫“键”）几乎可以使用任何对象。  
 Hash用花括号{}中包含键值对的形式表示，如果只有一个花括号没有健值对就是一个空Hash（{}）。
@@ -50,7 +49,8 @@ _Symbol是Ruby中特有的数据类型，在其他语言中很少见。Symbol和
 
 ##### 嵌套Hash  
 散列中元素的值可以是任何对象，甚至是另一个散列(图-1)。
-![Configure your Github Page](/images/blog/ruby/001.png)
+
+![散列中的元素](/images/blog/ruby/001.png)
 
 Rails中会大量使用这种Hash中有Hash的形式。
 
