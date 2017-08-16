@@ -10,7 +10,7 @@ permalink: /about/
 
 在年轻人的颈项上，没有什么东西能比事业心这颗灿烂的宝珠更迷人的了 ——哈菲兹
 
-## Between Heaven and Earth, every single step of ours is at full throttle, while every single road is twisting and turning. There is no constant view……我们奔走于天地间，每一次跋涉都全力以赴，而每一条道路都是曲折回环。路上没有不变的风景，没有笔直的坦途.
+## Between Heaven and Earth, every single step of ours is at full throttle, while every single road is twisting and turning. There is no constant view……
 
 {% for category in site.data.skills %}
 ### {{ category.name }}
