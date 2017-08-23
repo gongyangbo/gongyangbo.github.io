@@ -5,6 +5,7 @@ categories: Ruby
 description: Ruby中数组方法
 keywords: ruby,array
 ---
+Ruby数组方法
 
 <hr>
 <table border = "2">  
