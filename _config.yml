@@ -4,7 +4,7 @@
 baseurl:
 date_format: "ordinal"
 title: GongYangbo
-subtitle: "你给我的地图画好了快乐的路。"
+# subtitle: "你给我的地图画好了快乐的路。"
 description: "公杨博的个人博客"
 keywords: gongyangbo
 favicon: /g.ico
@@ -26,23 +26,27 @@ email: gongyangbo@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: Home
 
   -
     href: /categories/
-    label: 分类
+    label: Categories
+
+  # -
+  #   href: /wiki/
+  #   label: 维基
 
   -
-    href: /wiki/
-    label: 维基
+    href: /aboutme/
+    label: About-Me
 
   # -
   #   href: /links/
   #   label: 链接
 
-  -
-    href: /about/
-    label: 关于
+  # -
+  #   href: /about/
+  #   label: Somethings
 
 # ---------------- #
 #       RSS        #

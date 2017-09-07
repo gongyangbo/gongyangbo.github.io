@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Somethings
 description: 关于页面
 keywords: GongYangbo
 comments: true
@@ -12,11 +12,11 @@ permalink: /about/
 
 ## Between Heaven and Earth, every single step of ours is at full throttle, while every single road is twisting and turning. There is no constant view……
 
-{% for category in site.data.skills %}
+<!-- {% for category in site.data.skills %}
 ### {{ category.name }}
 <div class="btn-inline">
 {% for keyword in category.keywords %}
 <button class="btn btn-outline" type="button">{{ keyword }}</button>
 {% endfor %}
 </div>
-{% endfor %}
+{% endfor %} -->

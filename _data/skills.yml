@@ -1,9 +1,9 @@
-- name: skill
-  keywords:
-      - Java
-      - Ruby
-      - HTML
-      - CSS
+# - name: skill
+#   keywords:
+#       - Java
+#       - Ruby
+#       - HTML
+#       - CSS
 - name: 我们奔走于天地间，每一次跋涉都全力以赴，而每一条道路都是曲折回环。路上没有不变的风景，没有笔直的坦途.
   keywords:
       - 哈哈哈
