@@ -6,7 +6,9 @@ description: Java的 PO, VO, TO, BO ,DAO, POJO 解释
 keywords: java,spring
 ---
 ### Java的 PO, VO, TO, BO ,DAO, POJO 解释  
+
 ORM是Object Relational Mapping（对象关系映射）的缩写。对象与关系数据库绑定，对象来表示关系数据。ORM的世界里有两个基本东西：PO  VO   
+
 VO 值对象（Value Object） PO  持久对象（Persisent Object），她们是由一组属性和属性的get和set方法组成。从结构上看，她们并没有什么不同。但从意义和本质上她们是完全不同的。  
 1. VO 是new关键字创建，由GC（garbage collection-垃圾回收机制）回收的.  PO是向数据库中添加新数据时创建，数据库中删除数据时删除。并且她只存在一个数据库连接中，断开连接就被销毁。  
 2. VO是值对象，精确点讲是业务对象，是存活在业务层的，是业务逻辑使用的，存活的目的就是为数据提供一个生存的地方。PO则是有状态的， 每个属性代表其当前的状态。是物理数据的对象表现。她使程序和物理数据解耦，可以简化对象数据和物理数据的转换。
